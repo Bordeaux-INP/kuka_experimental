@@ -13,7 +13,7 @@ msg/.*Feedback\.msg$
 msg/.*Goal\.msg$
 msg/.*Result\.msg$
 msg/_.*\.py$
-
+.idea
 \.pcd$
 .pyc$
 
